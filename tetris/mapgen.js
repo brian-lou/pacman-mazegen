@@ -30,8 +30,8 @@ var cells = [];
 var tallRows = [];
 var narrowCols = [];
 
-var rows = 18;
-var cols = 10;
+var rows = 9;
+var cols = 5;
 
 var reset = function() {
     var i;
